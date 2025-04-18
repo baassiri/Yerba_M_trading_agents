@@ -1,0 +1,19 @@
+{
+  "ema_trend_strategy": {
+    "ema_fast": 50,
+    "ema_slow": 200
+  },
+  "breakout_strategy": {
+    "range_window": 10
+  },
+  "risk_management": {
+    "max_risk_percent": 1,
+    "max_open_trades": 3,
+    "account_balance_min": 100
+  },
+  "execution": {
+    "sl_pips": 100,
+    "tp_pips": 200,
+    "deviation": 20
+  }
+}

@@ -1,0 +1,15 @@
+openai
+python-dotenv
+requests
+pandas
+numpy
+matplotlib
+backtesting
+telethon
+python-telegram-bot
+yfinance
+scikit-learn
+tqdm
+statsmodels
+MetaTrader5
+# Add any other libraries you need for your project
